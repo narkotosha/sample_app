@@ -1,5 +1,10 @@
 # README
 
+
+Это пример приложения для
+[*Ruby on Rails Tutorial*](http://railstutorial.org/)
+by [Майкл Хартл](http://michaelhartl.com/).
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
